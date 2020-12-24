@@ -304,15 +304,15 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #ffffff;
+		color: #dddddd;
 	}
 
 	a:hover {
-		color: #ffffff;
+		color: #dddddd;
 	}
 
 	strong, b {
-		color: #ffffff;
+		color: #dddddd;
 	}
 
 	h1, h2, h3, h4, h5, h6 {

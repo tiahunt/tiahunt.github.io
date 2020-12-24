@@ -3310,6 +3310,7 @@ input, select, textarea {
 			border-top-left-radius: 0;
 			border-top-right-radius: 0;
 			z-index: 10000;
+			box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
 		}
 
 			#nav.alt ul li {

@@ -1958,7 +1958,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #c06c84;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2158,8 +2158,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #c06c84;
+			box-shadow: 0 0 0 1px #c06c84;
 		}
 
 	select {
@@ -2191,8 +2191,8 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #8cc9f0;
-		box-shadow: 0 0 0 1px #8cc9f0;
+		border-color: #c06c84;
+		box-shadow: 0 0 0 1px #c06c84;
 	}
 
 	::-webkit-input-placeholder {
@@ -2308,7 +2308,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #c06c84;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2901,7 +2901,7 @@ input, select, textarea {
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #c06c84;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3412,7 +3412,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: #c06c84;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3459,8 +3459,8 @@ input, select, textarea {
 			#main input[type="email"]:focus,
 			#main select:focus,
 			#main textarea:focus {
-				border-color: #8cc9f0;
-				box-shadow: 0 0 0 1px #8cc9f0;
+				border-color: #c06c84;
+				box-shadow: 0 0 0 1px #c06c84;
 			}
 
 		#main select {
@@ -3492,8 +3492,8 @@ input, select, textarea {
 
 		#main input[type="checkbox"]:focus + label:before,
 		#main input[type="radio"]:focus + label:before {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #c06c84;
+			box-shadow: 0 0 0 1px #c06c84;
 		}
 
 		#main ::-webkit-input-placeholder {
@@ -3547,10 +3547,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #c06c84);
+			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #c06c84);
+			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #c06c84);
+			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #c06c84);
 		}
 
 		#main table tbody tr {

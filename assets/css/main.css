@@ -3217,7 +3217,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: transparent; /*#ffffff;*/
-		color: #ffffff; /*636363*/
+		color: rgba(255, 255, 255, 0.65); /*636363*/
 		position: absolute;
 		width: 54em;
 		max-width: calc(100% - 4em);
@@ -3230,7 +3230,7 @@ input, select, textarea {
 	}
 
 		#nav input, #nav select, #nav textarea {
-			color: #ffffff; /*636363*/
+			color: rgba(255, 255, 255, 0.65); /*636363*/
 		}
 
 		#nav a:hover {
@@ -3238,11 +3238,11 @@ input, select, textarea {
 		}
 
 		#nav strong, #nav b {
-			color: #ffffff; /*636363*/
+			color: rgba(255, 255, 255, 0.65); /*636363*/
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #ffffff; /*636363*/
+			color: rgba(255, 255, 255, 0.65); /*636363*/
 		}
 
 		#nav blockquote {

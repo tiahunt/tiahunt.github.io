@@ -18,7 +18,7 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 0;
+	margin: 0 16em 0 16em;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -2407,7 +2407,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 0 3em 3em 3em;
+			margin: 0 0 3em 0;
 			width: 100%;
 		}
 

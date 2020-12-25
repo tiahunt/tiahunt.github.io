@@ -3219,7 +3219,7 @@ input, select, textarea {
 		background-color: transparent; /*#ffffff;*/
 		color: rgba(255, 255, 255, 0.65); /*636363*/
 		position: absolute;
-		width: 64em;
+		width: 100%;
 		max-width: calc(100% - 4em);
 		padding: 1em;
 		background-color: transparent;

@@ -3219,7 +3219,7 @@ input, select, textarea {
 		background-color: transparent; /*#ffffff;*/
 		color: rgba(255, 255, 255, 0.65); /*636363*/
 		position: absolute;
-		width: 54em;
+		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
 		background-color: transparent;
@@ -3310,7 +3310,7 @@ input, select, textarea {
 			border-top-left-radius: 0;
 			border-top-right-radius: 0;
 			z-index: 10000;
-			box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+			box-shadow: 0 10px 30px -10px var(--navy-shadow);
 		}
 
 			#nav.alt ul li {

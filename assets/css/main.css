@@ -3310,7 +3310,7 @@ input, select, textarea {
 			border-top-left-radius: 0;
 			border-top-right-radius: 0;
 			z-index: 10000;
-			box-shadow: 0 10px 30px -10px var(--navy-shadow);
+			box-shadow: 0 10px 30px -10px #182636;
 		}
 
 			#nav.alt ul li {
